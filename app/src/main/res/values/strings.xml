@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ud5_GetExternalFilesDir</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="button1">Verificar la copia privada de la imagen</string>
+    <string name="button2">Crear la copia privada de la imagen</string>
+    <string name="button3">Borrar la copia privada de la imagen</string>
+
+</resources>
